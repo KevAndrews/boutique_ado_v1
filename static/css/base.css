@@ -10,6 +10,10 @@ body {
     font-family: 'Lato';
 }
 
+form {
+    margin-top: 5%;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
